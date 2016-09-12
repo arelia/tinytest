@@ -1,0 +1,10 @@
+/* TinyMCE Editor Styles */
+
+snippet {
+  background-color: rgba(0,255,0,0.2);
+  display: block;
+}
+
+snippet:focus {
+  background-color: rgba(255,255,0,0.2);
+}
